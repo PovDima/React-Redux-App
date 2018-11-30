@@ -1,3 +1,12 @@
+## Project Info
+
+This is a my second React app - TODO List.
+
+In this project I use
+
+1. React
+2. Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
